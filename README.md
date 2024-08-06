@@ -1,5 +1,5 @@
-##Test Markdown<br>
-__Some text__<br>
+## Test Markdown<br>
+_Some text_<br>
 **Some other text**<br>
 ~~And one more~~
 ```
